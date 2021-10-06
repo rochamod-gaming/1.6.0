@@ -22,5 +22,5 @@
 - Boom! Enjoy Playing
 
 ### Note
-This mod only will apply if you Android version is lower than 10,
-But if you mobile is rooted so i will work in very phone
+This mod only will apply if your Android version is lower than 10,
+But if your mobile is rooted so it will work in very phone.
