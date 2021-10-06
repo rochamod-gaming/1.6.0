@@ -12,7 +12,7 @@
 
 ### How to apply?
 - Download `MT MANAGER`
-  - https://moddroid.co/mt-manager-m.html
+  - https://bit.ly/305WlJX
 - Download `rochamod.sh` file from here
 - Install `MT MANAGER`, Open it
 - Find `rochamod.sh` in `MT MANAGER`
@@ -39,7 +39,7 @@ But if your mobile is rooted so it will work in very phone.
 
 ### درخواست کیسے دیں؟
 - MT مینیجر ڈاؤن لوڈ کریں۔
-   -https://moddroid.co/mt-manager-m.html۔
+   - https://bit.ly/305WlJX۔
 - یہاں سے `rochamod.sh` فائل ڈاؤن لوڈ کریں۔
 - MT MANAGER انسٹال کریں ، اسے کھولیں۔
 - MT مینیجر میں `rochamod.sh` تلاش کریں۔
