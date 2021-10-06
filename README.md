@@ -7,6 +7,8 @@
 - No Tree 
 - No Grass
 - Very Less Smoke
+- Less Recoil
+- No Recoil / No Shake (coming soon)
 
 ### How to apply?
 - Download `MT MANAGER`
